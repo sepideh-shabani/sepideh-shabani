@@ -3,7 +3,7 @@
 different industry. Proficient with CSS and REACT framework.
 - 🌱 I am currently learning typeScript and testing
 - 💞️ I am looking to collaborate on open source projects.
-- 📫 How to contact me: sepidehsh74 @
+- 📫 How to contact me: sepidehsh74@gmail.com
 
 <!---
 sepideh08090/sepideh08090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
