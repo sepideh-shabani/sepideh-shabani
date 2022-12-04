@@ -1,5 +1,5 @@
 - 👋 Hello, I am @sepideh08090
-- 👀 I'm Front-end developer with 3+ years of experience designing and building responsive web design and mobile apps in the
+- 👀 I'm Front-end developer with 4+ years of experience designing and building responsive web design and mobile apps in the
 different industry. Proficient with CSS and REACT framework.
 - 🌱 I am currently learning typeScript and testing
 - 💞️ I am looking to collaborate on open source projects.
