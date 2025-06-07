@@ -1,7 +1,7 @@
 - 👋 Hello, I am Sepideh
-- 👀 I'm Front-end developer with 4+ years of experience designing and building responsive web design and mobile apps in the
-different industry. Proficient with CSS and REACT framework.
-- 💞️ I am looking to collaborate on open source projects.
+- 👀 I'm a Front-end developer with 6+ years of experience designing and building responsive web designs and mobile apps in
+different industries. Proficient with CSS and REACT framework.
+- 💞️ I am looking to collaborate on open-source projects.
 - 📫 How to contact me: sepidehsh74@gmail.com
 
 <!---
