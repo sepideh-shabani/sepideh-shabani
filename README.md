@@ -1,8 +1,16 @@
-- 👋 Hello, I am Sepideh
-- 👀 I'm a Front-end developer with 6+ years of experience designing and building responsive web designs and mobile apps in
-different industries. Proficient with CSS and REACT framework.
-- 💞️ I am looking to collaborate on open-source projects.
-- 📫 How to contact me: sepidehsh74@gmail.com
+# 👋 Hi, I'm Sepideh Shabani
+
+I'm a **Front-End Developer** with over 6 years of experience crafting responsive web and mobile applications across various industries. My expertise lies in **React.js**, **JavaScript**, and **CSS**, and I'm passionate about building user-friendly interfaces that provide seamless user experiences.
+
+## 🚀 About Me
+
+- 🎓 Bachelor's degree in International Technology from Semnan University
+- 📱 Experienced in developing responsive designs for both web and mobile platforms
+- 🤝 Open to collaborating on open-source projects and innovative ideas
+- 📫 Reach me at **sepidehsh74@gmail.com**
+- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/sepideh-shabani/)
+
+Let's connect and create something amazing together!
 
 <!---
 sepideh08090/sepideh08090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
